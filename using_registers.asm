@@ -1,4 +1,4 @@
-; For learning how to use registers
+; For learning how to use registers and system call
 global _start
 
 section .text
