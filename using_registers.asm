@@ -1,3 +1,4 @@
+; For learning how to use registers
 global _start
 
 section .text
